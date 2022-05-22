@@ -1,7 +1,12 @@
-# Projeto final  de uma Calculador para o programa de estágio Iblue Tech.
+# Projeto de Desenvolvimento de uma Calculadora
+![2022-05-22 (2)](https://user-images.githubusercontent.com/79488038/169715328-69965247-ab1f-4b8e-b0b8-aa1e432800cf.png)
 
 
-##### Os recursos utilizados nesse projeto foram
+###### Esse projeto faz parte do programa de estágio da Iblue Tech.
+
+
+##### Os recursos utilizados nesse projeto foram:
+
 - [Codigo do Visual Studio    ](https://code.visualstudio.com/?WT.mc_id)
 - [ Node.Js](https://nodejs.org/en/)
 - [ Vue.Js](https://vuejs.org/)
@@ -20,13 +25,15 @@ Foi utilizado o site de uma escola para poder definir quais seriam as as cores  
 ###### Logo após a criação de como seria desenvolvida a calculadora foi feito a instalação de algumas bibliotecas dentro da aplicação para auxiliar na criação das funções para o funcionamento dos testes unitarios:
 - [mocha](https://mochajs.org/)
 - [chai](https://www.chaijs.com/)
-###### Os testes foram feitos com todas as funções que serão desenvolvidas na calculadora (soma,subtração,multiplicação,divisão,porcentagem e raiz quadrada).Após utilizar o comando npm run test no terinal todos os testes foram aprovados, sem nenhuma falha.
+###### Os testes foram feitos com todas as funções que serão desenvolvidas na calculadora (soma,subtração,multiplicação,divisão,porcentagem e raiz quadrada).Após utilizar o comando npm run test no terminal, todos os testes foram aprovados, sem nenhuma falha.
+
+![2022-05-22](https://user-images.githubusercontent.com/79488038/169715408-6f66c62f-88e4-4478-8525-22ca81ffa187.png)
 
 
 
 # Criando o Projeto no Vue-CLI
 
-###### Antes de cria o projeto no Vue-CLI há necessidade de instalar o pacote globalmente,foi digitado o comando abaixo no prompt de comando:
+###### Antes de criar o projeto no Vue-CLI há necessidade de instalar o pacote globalmente,foi digitado o comando abaixo no prompt de comando:
 
 #### > npm install --global vue-cli
 
